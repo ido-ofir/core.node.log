@@ -1,0 +1,24 @@
+{
+  "name": "core.node.log",
+  "version": "1.0.0",
+  "description": "easily log colourful messages to the NodeJS console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ido-ofir/core.node.log.git"
+  },
+  "keywords": [
+    "core",
+    "node",
+    "log"
+  ],
+  "author": "Ido Ofir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ido-ofir/core.node.log/issues"
+  },
+  "homepage": "https://github.com/ido-ofir/core.node.log#readme"
+}
