@@ -51,6 +51,8 @@ module.exports = {
     dependencies: ['core.node.colors'],
     init(definition, done){
         
+        var core = this;
+        
         core.extend({
             log(){
                 console.log.apply(console, [].slice.call(arguments).map(t => core.isString(t) ? parse(t, functions) : t));
