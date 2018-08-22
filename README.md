@@ -18,7 +18,7 @@ core.plugin([
 core.log(' #green(√) #yellow( Did the stuff! )')
 ```
 
-Avilable colors:
+Available colors:
 
 #yellow
 
