@@ -21,11 +21,17 @@ core.log(' #green(√) #yellow( Did the stuff! )')
 Avilable colors:
 
 #yellow
+
 #purple
+
 #blue
+
 #red
+
 #cyan
+
 #grey
+
 #green
 
 
